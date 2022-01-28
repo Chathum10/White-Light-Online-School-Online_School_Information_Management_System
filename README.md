@@ -13,15 +13,8 @@ Database -  SQL workbench
 
 Eclipse ide for coding 
 
-# Contributors
 
-Group Leader - Mr. Chathum Dewanmina Adhihetty (Chathum10)
-
-Member 2 - Ms. Pawani Muthusala Perera(MuthusalaPerera)
-
-Member 3 -  Mr. Manilka Fernando(ManilkaFernando)
-
-
+# Application Includes:
 
 There was 4 main functional management dashboards
 
@@ -32,6 +25,17 @@ There was 4 main functional management dashboards
 3 Student Dashboard
 
 4 Staff Dashboard
+
+# Contributors
+
+Group Leader - Mr. Chathum Dewanmina Adhihetty (Chathum10)
+
+Member 2 - Ms. Pawani Muthusala Perera(MuthusalaPerera)
+
+Member 3 -  Mr. Manilka Fernando(ManilkaFernando)
+
+
+
 
 
 
